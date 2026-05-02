@@ -7,7 +7,7 @@ Me chamo Jane Myller, tenho 20 anos e sou natural de Formosa-GO. Concluí o ensi
 Compartilho minhas experiências e hobbies no: [Instagram](https://www.instagram.com/janemyller)
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jane-ferreira">
+    <a href="https://www.linkedin.com/in/jane-ferreira-1811b52a4?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Jane%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
 </a>
     <a href="https://www.tiktok.com/@janemyller">
@@ -18,20 +18,6 @@ Compartilho minhas experiências e hobbies no: [Instagram](https://www.instagram
         />
     </a>
 </
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
