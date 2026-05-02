@@ -7,28 +7,31 @@ Me chamo Jane Myller, tenho 20 anos e sou natural de Formosa-GO. Concluí o ensi
 Compartilho minhas experiências e hobbies no: [Instagram](https://www.instagram.com/janemyller)
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/jane-ferreira">
+  <img src="https://img.shields.io/badge/LinkedIn-Jane%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+</a>
     <a href="https://www.tiktok.com/@janemyller">
         <img 
             alt="TikTok" 
             title="Me siga no TikTok" 
-            src="https://img.shields.io/badge/TikTok-26k-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+            src="https://img.shields.io/badge/TikTok-Jane Myller-000000?style=for-the-badge&logo=tiktok&logoColor=white"
         />
     </a>
-    <a href="https://github.com/@janemyller?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/janemyllerhub?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/@janemyller?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/janemyllerhub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+</
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
