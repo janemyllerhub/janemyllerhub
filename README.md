@@ -44,8 +44,8 @@ Compartilho minhas experiências e hobbies no: [Instagram](https://www.instagram
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="githubcodespaces" 
+    title="githubcodespaces"
     width="30px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"        
