@@ -2,7 +2,8 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Jane Myller, tenho 20 anos e sou natural de Formosa-GO. Concluí o ensino médio no CEPCR. Possuo formação em informática avançada, com conhecimentos em Python e arquitetura de computadores. Atualmente, estou cursando Engenharia de Software na Uniasselvi. Estou em busca de conhecimento e oportunidades na área de tecnologia.
+Me chamo Jane Myller, tenho 20 anos e sou natural de Formosa-GO. Concluí o ensino médio no CEPCR. Possuo formação em informática avançada, com conhecimentos em Python e arquitetura de computadores. Atualmente, estou cursando Engenharia de Software na Uniasselvi. 
+Estou em busca de conhecimento e oportunidades na área de tecnologia.
 
 Compartilho minhas experiências e hobbies no: [Instagram](https://www.instagram.com/janemyller)
 
